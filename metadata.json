@@ -1,0 +1,6 @@
+{
+  "name": "Wentix Content Platform",
+  "description": "Scientific luxury SaaS dashboard for AI-powered social media content automation, featuring monospace data, dark obsidian surfaces, and lightning-fast operators interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
